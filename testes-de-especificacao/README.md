@@ -1,19 +1,8 @@
----
-marp: true
-theme: default
-class: 
-  - lead
-backgroundImage: url('./../if_back1.png')
-
-paginate: true
----
- 
 # Testes de Especificação
 ### Prof. Dr. Valério Gutemberg
-#### :pencil: Andriéria, Bruno Pithon, Guilherme Aurélio, João Paulo e Kelvin
-#### :pencil: Disciplina de Testes de Software
-:pencil2: Curso de Sistemas para Internet
-
+#### Andriéria, Bruno Pithon, Guilherme Aurélio, João Paulo e Kelvin
+#### Disciplina de Testes de Software
+Curso de Sistemas para Internet
 
 ---
 
@@ -102,7 +91,7 @@ Testes de especificação são um tipo de teste de software que verifica se o si
 ---
 
 # Visão geral
-![Imagem](./../tabela.jpeg)
+![Imagem](./slides-testes-de-especificacao/tabela.jpeg)
 
 ---
 
@@ -338,4 +327,3 @@ Behave, Gherkin e BDD formam uma poderosa combinação para escrever testes de e
 # Obrigado!
 
 Dúvidas?
-
